@@ -1,0 +1,13 @@
+# Node modules (if you use npm in future)
+node_modules/
+
+# Build/Dist folders
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
